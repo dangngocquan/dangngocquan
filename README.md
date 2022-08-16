@@ -17,4 +17,4 @@ I'am a student of Ha Noi University of Science (HUS)
 
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquan&exclude_repo=TrainingAlgorithms)](https://github.com/dangngocquan/TrainingAlgorithms)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquan)](https://github.com/dangngocquan/TrainingAlgorithms)
