@@ -19,6 +19,10 @@
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquan&langs_count=8&theme=midnight-purple)](https://github.com/dangngocquan)
 
-<!-- ### Dang Ngoc Quan's Wakatime Stats -->
+### Dang Ngoc Quan's Wakatime Stats
+<img
+  src="https://github.com/dangngocquan/dangngocquan/blob/main/images/stat.svg"
+  alt="Dang Ngoc Quan's Wakatime Stats"
+/>
 
 [![](https://komarev.com/ghpvc/?username=dangngocquan&color=brightgreen&style=plastic)](https://github.com/dangngocquan)
