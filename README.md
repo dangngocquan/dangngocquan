@@ -25,6 +25,6 @@
   </summary>
   <p>
     <br>
-    <img src="https://wakatime.com/share/@dangngocquan/e01476f7-6e67-4553-96b3-9593d9676e59.svg" height="600" width="800">
+    <img src="https://wakatime.com/share/@dangngocquan/bc4437fe-ac04-4079-a045-3d1eb6d8ee85.svg" height="600" width="800">
   </p>
 </details>
