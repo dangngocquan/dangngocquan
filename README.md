@@ -21,4 +21,4 @@
 
 <!-- ### Dang Ngoc Quan's Wakatime Stats -->
 
-![](https://komarev.com/ghpvc/?username=dangngocquan)
+![](https://komarev.com/ghpvc/?username=dangngocquan&color=brightgreen&style=plastic)
