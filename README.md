@@ -13,3 +13,8 @@ I'am a student of Ha Noi University of Science (HUS)
 
 ### Github Stats
 [![Dang Ngoc Quan Github Stats](https://github-readme-stats.vercel.app/api?username=dangngocquan&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/dangngocquan)
+
+
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquan)](https://github.com/anuraghazra/github-readme-stats)
