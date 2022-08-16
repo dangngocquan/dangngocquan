@@ -16,5 +16,8 @@ I'am a student of Ha Noi University of Science (HUS)
 
 
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dangngocquan&exclude_repo=TrainingAlgorithms,HUSMAT2317)](https://github.com/dangngocquan/TrainingAlgorithms)
+<!-- ### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dangngocquan&exclude_repo=TrainingAlgorithms,HUSMAT2317)](https://github.com/dangngocquan/TrainingAlgorithms) -->
+
+### Dang Ngoc Quan's Wakatime Stats
+[![Dang Ngoc Quan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dangngocquan)](https://github.com/dangngocquan)
