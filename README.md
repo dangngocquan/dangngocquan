@@ -21,7 +21,7 @@
 
 ### Dang Ngoc Quan's Wakatime Stats
 <img
-  src="https://github.com/dangngocquan/dangngocquan/blob/main/images/stat.svg"
+  src="https://github.com/dangngocquan/dangngocquan/blob/master/images/stat.svg"
   alt="Dang Ngoc Quan's Wakatime Stats"
 />
 
