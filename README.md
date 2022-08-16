@@ -18,4 +18,4 @@
 
 
 ### Dang Ngoc Quan's Wakatime Stats
-[![Dang Ngoc Quan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dangngocquan&theme=midnight-purple)](https://github.com/dangngocquan)
+[![Dang Ngoc Quan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dangngocquan&theme=midnight-purple)](https://wakatime.com/dashboard)
