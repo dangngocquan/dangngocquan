@@ -16,6 +16,8 @@
 [![Dang Ngoc Quan Github Stats](https://github-readme-stats.vercel.app/api?username=dangngocquan&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/dangngocquan)
 
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquan&langs_count=8&layout=compact&theme=midnight-purple)](https://github.com/dangngocquan)
 
 ### Dang Ngoc Quan's Wakatime Stats
 <details>
@@ -25,6 +27,6 @@
   </summary>
   <p>
     <br>
-    <img src="https://wakatime.com/share/@dangngocquan/bc4437fe-ac04-4079-a045-3d1eb6d8ee85.svg" height="600" width="800">
+    <img src="https://wakatime.com/share/@dangngocquan/62c238c3-d392-4266-838a-5422dba6602b.svg" height="600" width="800">
   </p>
 </details>
