@@ -16,8 +16,8 @@
 [![Dang Ngoc Quan Github Stats](https://github-readme-stats.vercel.app/api?username=dangngocquan&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/dangngocquan)
 
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquan&langs_count=8&theme=midnight-purple&exclude_repo=SimpleSnakeGame)](https://github.com/dangngocquan)
+<!-- ### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquan&langs_count=8&theme=midnight-purple&exclude_repo=SimpleSnakeGame)](https://github.com/dangngocquan) -->
 
 
 ### Dang Ngoc Quan's Wakatime Stats
