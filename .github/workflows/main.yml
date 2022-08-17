@@ -25,3 +25,6 @@ jobs:
           BRANCH: "master"
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_TOTAL: true
