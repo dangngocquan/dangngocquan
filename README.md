@@ -10,6 +10,10 @@
 ### Open Source Projects
 [![Training Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=TrainingAlgorithms&theme=midnight-purple)](https://github.com/dangngocquan/TrainingAlgorithms)
 
+[![Training Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=MAT2317MIMGO&theme=midnight-purple)](https://github.com/dangngocquan/MAT2317MIMGO)
+
+[![Training Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=HUSMAT2317&theme=midnight-purple)](https://github.com/dangngocquan/HUSMAT2317)
+
 
 
 ### Github Stats
