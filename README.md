@@ -8,7 +8,7 @@
 
 
 ### Open Source Projects
-[![Training Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=TrainingAlgorithms&theme=midnight-purple)](https://github.com/dangngocquan/TrainingAlgorithms)
+<!-- [![Training Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=TrainingAlgorithms&theme=midnight-purple)](https://github.com/dangngocquan/TrainingAlgorithms) -->
 
 <!-- [![MAT2317MIMGO](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=MAT2317MIMGO&theme=midnight-purple)](https://github.com/dangngocquan/MAT2317MIMGO)
 
