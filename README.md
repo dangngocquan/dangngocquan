@@ -18,6 +18,8 @@
  -->
 [![SimpleSnakeGame](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=SimpleSnakeGame&theme=midnight-purple)](https://github.com/dangngocquan/SimpleSnakeGame)
 
+[![SimpleSubjectsManager](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=simple_subjects_manager&theme=midnight-purple)]([https://github.com/dangngocquan/SimpleSnakeGame](https://github.com/dangngocquan/simple_subjects_manager))
+
 ### Github Stats
 [![Dang Ngoc Quan Github Stats](https://github-readme-stats.vercel.app/api?username=dangngocquan&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/dangngocquan)
 
