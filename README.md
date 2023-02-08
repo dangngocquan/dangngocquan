@@ -1,4 +1,4 @@
-### Hi there 👋 [f](https://www.facebook.com/BrisS104)
+### Hi there 👋
 
 - 📖 I'am studying at Ha Noi University of Science (HUS)
 - 🌱 I’m currently learning Java.
