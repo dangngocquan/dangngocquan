@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 📖 I'am studying at Ha Noi University of Science (HUS)
-- 🌱 I’m currently learning Java.
-- 💬 Ask me about Java.
+- 🌱 
+- 💬 
 
 
 
