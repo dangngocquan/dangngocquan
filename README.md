@@ -19,17 +19,12 @@
 <!-- CSS -->
 
 <style>
-  :root {
-    --primary-color: #0d1117;
-    /* --primary-color: #000; */
-
-  }
 
   .container {
     display: flex;
     justify-content: center;
     width: 100%;
-    background-color: var(--primary-color);
+    background-color: #0d1117;
   }
 
   .logo {
