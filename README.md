@@ -7,7 +7,9 @@
 
 ### Socials
 
-
+<div style="width: 100%;">
+    <img src="components/socials.svg" style="width: 100%;" alt="Hello">
+</div>
 
 
 
