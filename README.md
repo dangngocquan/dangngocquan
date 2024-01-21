@@ -19,6 +19,8 @@
 
 ### Open Source Projects
 
+ [![shop-management](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=shop-management&theme=midnight-purple)](https://github.com/dangngocquan/shop-management)
+ 
  [![product-manager-backend](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=product-manager-backend&theme=midnight-purple)](https://github.com/dangngocquan/product-manager-backend)
 
  [![product-manager-frontend](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=product-manager-frontend&theme=midnight-purple)](https://github.com/dangngocquan/product-manager-frontend)
