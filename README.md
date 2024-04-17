@@ -19,7 +19,7 @@
 
 ### Open Source Projects
 
- [![tech-shop](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=tech-shop&theme=midnight-purple)](https://github.com/dangngocquan/tech-shop)
+ <!-- [![tech-shop](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=tech-shop&theme=midnight-purple)](https://github.com/dangngocquan/tech-shop) -->
  [![product-manager-backend](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=product-manager-backend&theme=midnight-purple)](https://github.com/dangngocquan/product-manager-backend)
  [![product-manager-frontend](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=product-manager-frontend&theme=midnight-purple)](https://github.com/dangngocquan/product-manager-frontend)
  [![product-manager-database](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=product-manager-database&theme=midnight-purple)](https://github.com/dangngocquan/product-manager-database)
