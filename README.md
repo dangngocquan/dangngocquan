@@ -21,7 +21,6 @@
 
  <!-- [![tech-shop](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=tech-shop&theme=midnight-purple)](https://github.com/dangngocquan/tech-shop) -->
  [![uni-plan](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=uni-plan&theme=midnight-purple)](https://github.com/dangngocquan/uni-plan)
- <!--[![product-manager-database](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=product-manager-database&theme=midnight-purple)](https://github.com/dangngocquan/product-manager-database) -->
  [![java-dsa-visualization](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=java-dsa-visualization&theme=midnight-purple)](https://github.com/dangngocquan/java-dsa-visualization)
  [![simple-subjects-manager](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=simple_subjects_manager&theme=midnight-purple)](https://github.com/dangngocquan/simple_subjects_manager)
  [![simple-snake-game](https://github-readme-stats.vercel.app/api/pin/?username=dangngocquan&repo=SimpleSnakeGame&theme=midnight-purple)](https://github.com/dangngocquan/SimpleSnakeGame)
