@@ -42,5 +42,7 @@
   alt="Dang Ngoc Quan's Wakatime Stats"
 />
 
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+
 [![](https://komarev.com/ghpvc/?username=dangngocquan&color=brightgreen&style=plastic)](https://github.com/dangngocquan)
 
