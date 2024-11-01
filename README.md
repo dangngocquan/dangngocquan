@@ -53,7 +53,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/dangngocquan/dangngocquan/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/dangngocquan/dangngocquan/output/ocean.gif"
   />
 </picture>
 
