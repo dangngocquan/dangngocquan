@@ -42,6 +42,7 @@
   alt="Dang Ngoc Quan's Wakatime Stats"
 />
 
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -56,6 +57,7 @@
     src="https://raw.githubusercontent.com/dangngocquan/dangngocquan/output/ocean.gif"
   />
 </picture>
+-->
 
 [![](https://komarev.com/ghpvc/?username=dangngocquan&color=brightgreen&style=plastic)](https://github.com/dangngocquan)
 
