@@ -1,9 +1,25 @@
-### Hi there 👋
+# Hi there 👋, I'm Dang Ngoc Quan
 
-- 📖 I'am studying at Ha Noi University of Science (HUS)
-- 🌱 
-- 💬 
+Backend Node.js Developer | 2+ years experience | Alumnus of VNU-HUS
 
+- 🎓 Graduate (2025) – Mathematics & Computer Science, VNU University of Science (HUS), Hanoi
+- 💻 Experienced in building scalable backend systems with Node.js, NestJS, ExpressJS
+- 🛠 Key technologies: TypeScript • PostgreSQL • MongoDB • Redis • Kafka • WebSocket • Elasticsearch • Docker • AWS (EC2, S3)
+- 🌱 Always learning: Microservices, CI/CD, system optimization, and AI for productivity
+- 👯 Open to collaboration on backend/open-source projects
+- 📫 Contact: dangngocquan104@gmail.com
+
+### 🛠 Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+Welcome to my GitHub! 🚀
 
 ### Socials
 
